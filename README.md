@@ -27,7 +27,7 @@ N/A
 
 ## License
 
-Please refer to the license in the repo
+Please refer to the license in the repository
 ---
 
 ## Badges
@@ -37,7 +37,7 @@ Please refer to the license in the repo
 Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
-
+ 
 If your project has a lot of features, list them here.
 
 ## How to Contribute
